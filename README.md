@@ -7,6 +7,7 @@ This document contains list of pastebin services organized by categories.The lis
 Non-authenticated users can create pastes. (Guest) 
 
 - https://pastebin.com
+- https://pastesite.com
 - https://justpaste.it
 - https://jsfiddle.net
 - https://paste.centos.org
